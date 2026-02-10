@@ -1,5 +1,5 @@
 ---
 tags:
 Date /Time: "{date} {time}"
-title:
+title: Preparatory Studies
 ---
