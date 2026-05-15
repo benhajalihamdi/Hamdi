@@ -20,4 +20,4 @@ This domain revolves around [[Computer Networking]], [[network threats and attac
 
 ## Domain 5:Security Operations:
 
-This domain explains [[data security]](Encryption, Data handeling), [[system hardening]] ,[[best practice security policies]](Passwords, AUP, BYOD Policies) and [[security awareness training]]
+This domain explains [[data security]]([[Encryption]], Data handeling) ,[[best practice security policies]](Passwords, AUP, BYOD Policies) and [[security awareness training]]
