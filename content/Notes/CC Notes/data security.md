@@ -2,7 +2,7 @@
 tags:
   - cyber/Security_Operations
 Date /Time: "{date} {time}"
-title:
+title: Data Security
 ---
 ## [[Encryption]]
 

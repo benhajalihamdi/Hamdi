@@ -2,7 +2,7 @@
 tags:
   - Cyber/Security_Principals
 Date /Time: "{date} {time}"
-title:
+title: Risk Management Processes
 ---
 Risk management is the systematic process of identifying, evaluating, and addressing potential threats to an organization's assets and operations. It is not about eliminating all risk, but about managing it to an acceptable level.
 ### **Risk Management Fundamentals**

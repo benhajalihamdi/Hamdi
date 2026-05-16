@@ -4,7 +4,6 @@ tags:
 Date /Time: "{date} {time}"
 title:
 ---
-
 ## The NIST Definition
 
 NIST defines privacy as **"a state of being free from unsanctioned intrusion,"** but more specifically in a digital context, it refers to: 

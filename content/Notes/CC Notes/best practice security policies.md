@@ -2,7 +2,7 @@
 tags:
   - cyber/Security_Operations
 Date /Time: "{date} {time}"
-title:
+title: Best practice security policies
 ---
 ## Data handling policy
 This policy dictates how data is managed throughout its entire [[Data Life Cycle|life cycle]] from the moment it's created to the moment it's deleted. 

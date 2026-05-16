@@ -2,7 +2,7 @@
 tags:
   - Cyber/Security_Principals
 Date /Time: "{date} {time}"
-title:
+title: Security Controls
 ---
 ### **Administrative Controls**
 

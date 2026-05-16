@@ -2,7 +2,7 @@
 tags:
   - cyber/Security_Operations
 Date /Time: "{date} {time}"
-title:
+title: Security Awareness Training
 ---
 The goal of awareness training is to change user behavior from a security risk to a security asset.
 
