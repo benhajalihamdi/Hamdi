@@ -6,9 +6,8 @@ tags:
   - Youtube_Videos
   - course
 Date /Time: "{date} {time}"
-title: 3Blue1Brown Neural Network Serie Notes Chapter 1
+title: Chapter 1
 ---
-
 Why is it reasonable to expect the neural layered structure to behave intelligently?
 a nine is formed by a loop up top and a line at the bottom...etc.
 

@@ -6,7 +6,7 @@ tags:
   - Neural_Network
   - Youtube_Videos
 Date /Time: "{date} {time}"
-title: 3Blue1Brown Neural Network Serie Notes Chapter 3 Backpropagation, intuitively
+title: Chapter 3 Backpropagation, intuitively
 ---
 the objective is to modify and alter the weights and biases of a network so that it precise and returns the prediction we are looking for.
 
@@ -14,7 +14,9 @@ we have the $cost$ which represents how well we got to the wanted value
 
 assuming x is our correct value we want the prediction of x to be as near to 1 as possible while any other value to be as near to 0 as possible, prioritizing the alteration of the x prediction over a prediction for y that may already be near 0
 
-lets take at hand only the activation of the x  neuron which is  $$a_0^{(k+1)} = \sigma(\omega_{0,0}a_0^{(k)}+\omega_{0,1}a_1^{(k)}+\omega_{0,2}a_2^{(k)}+...+\omega_{0,m}a_m^{(k)}+b_k)$$
+lets take at hand only the activation of the x  neuron which is  
+$$a_0^{(k+1)} = \sigma(\omega_{0,0}a_0^{(k)}+\omega_{0,1}a_1^{(k)}+\omega_{0,2}a_2^{(k)}+...+\omega_{0,m}a_m^{(k)}+b_k)$$
+
 we could increase $b$ or increase $w_i$ or change $a_i$ entirely:
 we can increase b
 

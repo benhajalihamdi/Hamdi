@@ -6,7 +6,7 @@ tags:
   - Neural_Network
   - Youtube_Videos
 Date /Time: "{date} {time}"
-title: 3Blue1Brown Neural Network Serie Notes Chapter 1
+title: " Chapter 2"
 ---
 this video is about training a neural network 
 
