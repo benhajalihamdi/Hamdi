@@ -8,8 +8,8 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Hamdi's Page",
-    pageTitleSuffix: "",
+    pageTitle: "Quartz Garden",
+    pageTitleSuffix: "Hamdi's Digital Garden",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
@@ -29,15 +29,15 @@ const config: QuartzConfig = {
       },
       colors: {
         lightMode: {
-          light: "#f5e9d9",
-          lightgray: "#e5e5e5",
-          gray: "#b8b8b8",
-          darkgray: "#4e4e4e",
-          dark: "#2b2b2b",
-          secondary: "#633628",
-          tertiary: "#a59c84",
-          highlight: "rgba(168, 169, 143, 0.15)",
-          textHighlight: "#fff23688",
+          light: "#22211f",
+          lightgray: "#393836",
+          gray: "#646464",
+          darkgray: "#d4d4d4",
+          dark: "#ebebec",
+          secondary: "#aa937b",
+          tertiary: "#a59884",
+          highlight: "rgba(169, 161, 143, 0.15)",
+          textHighlight: "#b3690288",
         },
         darkMode: {
           light: "#22211f",
@@ -48,7 +48,7 @@ const config: QuartzConfig = {
           secondary: "#aa937b",
           tertiary: "#a59884",
           highlight: "rgba(169, 161, 143, 0.15)",
-          textHighlight: "#02b3b388",
+          textHighlight: "#b3690288",
         },
       },
     },

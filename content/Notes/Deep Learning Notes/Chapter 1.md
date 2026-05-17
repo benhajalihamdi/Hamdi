@@ -73,8 +73,13 @@ b_1\\
 ...\\
 b_m
 \end{bmatrix})
-$$$$\iff$$
+$$
+
+
+$$\iff$$ 
+
 $$a^{(1)} =\sigma(Wa^{(0)}+b)$$
+
 $m$ is the number of neurons in layer $k$ and $n$ is the number of neurons in layer $k+1$
 
 final remarques: a neuron is more a function that takes in all of the previous neurons responses and give out a number 

@@ -22,26 +22,34 @@ $$\frac{\partial C_0}{\partial a^{(L)}}=2(a^{(L)}-y)$$
 $$\frac{a^{(L)}}{\partial z^{(L)}} =\sigma'(z^{(L)})$$
 
 $$\frac{\partial z^{(L)}}{\partial \omega^{(L)}}=a^{(L-1)}$$
+
+
 so
-$$\frac{\partial C_0}{\partial \omega^{(L)}} =a^{(L-1)}\sigma'(z^{(L)})2(a^{(L)}-y)
-$$and the cost of this simple network for all of the training data is 
+
+$$\frac{\partial C_0}{\partial \omega^{(L)}} =a^{(L-1)}\sigma'(z^{(L)})2(a^{(L)}-y)$$
+
+
+and the cost of this simple network for all of the training data is 
+
 $$\frac{\partial C}{\partial \omega^{(L)}} =\frac{1}{n}\sum_{k=0}^{n-1}\frac{\partial C_k}{\partial \omega^{(L)}}$$
+
 where $n$ is the amount of training data 
 
 and this is just one component of the gradient vector which takes in account all the weights and biases in this simple network
 
-now moving to a network that has multiple neurons per layer we subscript  each layer for each neuron $a_j^{(L)}$$a_k^{(L-1)}$
+now moving to a network that has multiple neurons per layer we subscript  each layer for each neuron $a_j^{(L)}$ $a_k^{(L-1)}$
 where
-$C_0 = \sum_{j=0}^{n_l-1}(a_j^{(l)}-y_j)^2$
+ $C_0 = \sum_{j=0}^{n_l-1}(a_j^{(l)}-y_j)^2$
+
 
 $$ z_j^{(l)} = \omega_{j0}^{(l)}a_0^{(l-1)}+\omega_{j1}^{(l)}a_1^{(l-1)}+\omega_{j2}^{(l)}a_2^{(l-1)}+...+\omega_{jk}^{(L)}a_k^{(l-1)}+...+b_j^{(l)}$$
-and $$ a_j^{(l)}=\sigma(z_j^{(l)})$$
-$$\frac{{\partial C_0}}{\partial a_k^{(L-1)}} =
 
-\underbrace{
-\sum_{j=0}^{n_L - 1}
-\frac{{\partial z_j^{(L)}}}{\partial a_k^{(L-1)}}
-\frac{\partial a_j^{(L)}}{{\partial z_j^{(L)}}}
-\frac{{\partial C_0}}{\partial a_j^{(L)}}
-}_{\text {Sum over layer L}}$$
-![[summary.jpg]]
+and 
+
+$$ a_j^{(l)}=\sigma(z_j^{(l)})$$
+
+
+
+
+
+$$\frac{{\partial C_0}}{\partial a_k^{(L-1)}} =\sum_{j=0}^{n_L - 1}\frac{{\partial z_j^{(L)}}}{\partial a_k^{(L-1)}}\frac{\partial a_j^{(L)}}{{\partial z_j^{(L)}}}\frac{{\partial C_0}}{\partial a_j^{(L)}}$$
