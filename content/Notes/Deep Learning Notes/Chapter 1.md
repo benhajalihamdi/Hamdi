@@ -2,9 +2,6 @@
 tags:
   - AI/Deep_Learning
   - Neural_Network
-  - 3Blue1Brown
-  - Youtube_Videos
-  - course
 Date /Time: "{date} {time}"
 title: Chapter 1
 ---

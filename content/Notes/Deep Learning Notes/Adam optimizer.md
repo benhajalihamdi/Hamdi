@@ -1,7 +1,7 @@
 ---
 tags:
   - AI/Deep_Learning
-  - torch
+  - PyTorch_Library
 Date /Time: "{date} {time}"
 title:
 ---
