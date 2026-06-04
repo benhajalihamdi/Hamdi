@@ -1,0 +1,8 @@
+---
+tags:
+  - Web
+aliases:
+  - npm
+date/time: 2026-02-09 20:07
+---
+"[NPM (Node Package Manager)](https://www.google.com/search?q=NPM+%28Node+Package+Manager%29&sca_esv=074920bdea4960d4&sxsrf=ANbL-n73tgfLG3GuoJ4R4jRrm0WO_xPZnw%3A1770663763780&ei=Uy-KaYehL-isi-gPvIaEiQE&biw=1536&bih=730&ved=2ahUKEwj2vO-xjc2SAxWt97sIHdtBJUcQgK4QegQIARAD&uact=5&oq=whats+npm&gs_lp=Egxnd3Mtd2l6LXNlcnAiCXdoYXRzIG5wbTILEAAYgAQYkQIYigUyCxAAGIAEGJECGIoFMgsQABiABBiRAhiKBTILEAAYgAQYkQIYigUyCxAAGIAEGJECGIoFMgkQABiABBgKGAsyCRAAGIAEGAoYCzIJEAAYgAQYChgLMgkQABiABBgKGAsyCRAAGIAEGAoYC0jeD1DzBViVDnABeAGQAQCYAe4BoAG_BqoBBTAuMi4yuAEDyAEA-AEBmAIEoAKXBcICChAAGLADGNYEGEfCAg0QABiABBiwAxhDGIoFwgIEECMYJ8ICBRAAGIAEwgIHEAAYgAQYCpgDAOIDBRIBMSBAiAYBkAYKkgcFMS4yLjGgB4EfsgcFMC4yLjG4B4cFwgcFMy0zLjHIBzWACAA&sclient=gws-wiz-serp&mstk=AUtExfCo2wBFarwzjmSOLm6QCFRxKvSKPJezFnx7bcQw4ljOLq3XNNXBt5wp7Otzr2j52-xNlLxXuoByMJ7ewudEqFCKBvXvpEqK8DtF34412nC0mH5-qTYPdBdWhU8zb1Fs-c7P9vXIKEa-fDZfyPXahwp6zz_StGdc6ldWWik26KwPBfCbvPl5byVmRidyndQgGRfIK8NmT0any7pjTKecxSZjIVxc3CWCpyHSf0w2cw2k8-ivo5jBZMu7m0hdAvheDgcg-6FlwRDnvcBlF8hLSN7c&csui=3) is ==the default package manager for Node.js and the world's largest software registry==, boasting over two million open-source JavaScript packages. It consists of a command-line client for installing, managing, and sharing project dependencies, as well as an online registry, allowing developers to easily manage libraries and automate workflows." -GEMINI

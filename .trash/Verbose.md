@@ -1,0 +1,3 @@
+In computing, **verbose** just means **"chatty"** or **"wordy."** By default, Netcat is incredibly quiet. If you run a command without `-v`, and it succeeds, Netcat usually shows you a blank screen. It doesn't tell you _"Hey, I successfully connected!"_—it just waits for you to type. If it fails, it might just sit there and time out without saying why.
+
+When you add the `-v` (or `-vv` for extra verbose) flag, you are telling Netcat: **"Please print out everything you are doing in plain English so I can see what's happening behind the scenes."**

@@ -1,0 +1,13 @@
+- [ ] make luggage
+	- [x] clothes
+	- [x] produit securinets
+	- [x] badge 
+	- [x] costume
+	- [x] charger 
+	- [x] mouse
+	- [x] notebook 
+	- [x] pc 
+	- [x] para pluir 
+	- [ ] 
+- [x] pay bus fee
+- [ ] 

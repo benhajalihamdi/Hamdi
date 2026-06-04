@@ -2,9 +2,9 @@
 tags:
   - AI/Deep_Learning
   - Neural_Network
-  - private
 Date /Time: "{date} {time}"
 title: Chapter 1
+draft: false
 ---
 Why is it reasonable to expect the neural layered structure to behave intelligently?
 a nine is formed by a loop up top and a line at the bottom...etc.
