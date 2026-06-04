@@ -15,7 +15,7 @@ we have the $cost$ which represents how well we got to the wanted value
 assuming x is our correct value we want the prediction of x to be as near to 1 as possible while any other value to be as near to 0 as possible, prioritizing the alteration of the x prediction over a prediction for y that may already be near 0
 
 lets take at hand only the activation of the x  neuron which is  
-$$a_0^{(k+1)} = \sigma(\omega_{0,0}a_0^{(k)}+\omega_{0,1}a_1^{(k)}+\omega_{0,2}a_2^{(k)}+...+\omega_{0,m}a_m^{(k)}+b_k)$$
+$$a_0^{(k+1)}=\sigma(\omega_{0,0}a_0^{(k)}+\omega_{0,1}a_1^{(k)}+\omega_{0,2}a_2^{(k)}+...+\omega_{0,m}a_m^{(k)}+b_k)$$
 
 we could increase $b$ or increase $w_i$ or change $a_i$ entirely:
 we can increase b
@@ -39,4 +39,4 @@ here the idea of propagating backwards comes to shine by adding all these desire
 
 and all this is how one training example wishes to nudge each one of these weights and biases
 
-mathematically check [[chaptre 4 Backpropagation Calculus]] 
+mathematically check [[Chaptre 4 Backpropagation Calculus]] 

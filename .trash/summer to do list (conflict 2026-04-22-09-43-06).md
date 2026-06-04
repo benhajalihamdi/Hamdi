@@ -1,0 +1,39 @@
+- [ ] Claim Nvidia voucher 
+- [ ] claim datacamp one year 
+- [ ] study cybersecuirity & AI  & Soft skills 
+	- [ ] study AI courses on youtube 
+	- [ ] study ai material in the drive 
+	- [ ] read info book (s) 
+	- [ ] study from that one website 
+	- [ ] review and study the MI material 
+	- [ ] study the NVIDIA course from securinets 
+	- [ ] discover datacamp 
+	- [ ] study cs50 harvard course 
+	- [ ] make a project and tie it back to cs50 ( maybe an opportunity catcher )
+- [ ] practice 
+	- [ ] do most of pico ctf 
+	- [ ] do tryhackme rooms 
+	- [ ] hack the box suff 
+- [ ] work out 
+- [ ] get a summer job 
+- [ ] search of opportunities 
+	- [ ] participate in events(forums, seminaires, webinaires, inof sessions ...etc)
+	- [ ] deep research in [[erasmus+|erasmus]]+ and other international mobility opportunities 
+- [ ] preparing papers 
+	- [ ] make your cv  in different formats
+	- [ ] write lettre de motivation personalise 
+	- [ ] write a resume 
+- enjoymeny 
+	- valorant 
+	- mc 
+	- monkeytype 
+	- shows & movies
+		- the drama
+		- spiderman 
+		- from 
+		- dark 
+		- dune 3 
+		- the odyssy by christopher nolan 
+		- some written in 
+	- [ ] minimize phone usage 
+	- [ ] read the books youve bought 

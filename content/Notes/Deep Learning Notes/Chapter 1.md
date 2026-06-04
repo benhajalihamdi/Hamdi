@@ -2,6 +2,7 @@
 tags:
   - AI/Deep_Learning
   - Neural_Network
+  - private
 Date /Time: "{date} {time}"
 title: Chapter 1
 ---
